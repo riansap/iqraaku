@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📖 Iqraaku
+# Iqraaku
 
-### Modern Quran App for Mobile
+### Simple Modern Quran App for Mobile
 
 <a href="https://youtube.com/shorts/m75agrkk4nc" target="_blank">
   <Img src="lib/assets/images/home.jpeg" width="300" alt="Home"/>
@@ -10,38 +10,38 @@
 
 </div>
 
-## 📖 Deskripsi
+## Description
 
-Iqraaku adalah aplikasi Al-Qur'an modern yang membantu Anda membaca, memahami, dan menghafal Al-Qur'an dengan mudah. Dibangun dengan Flutter, aplikasi ini menawarkan pengalaman pengguna yang bersih, responsif, dan kaya fitur, baik di perangkat mobile Android maupun iOS.
+Iqraaku is a simple and modern Quran application designed to help you read, understand, and memorize the Quran with ease. Built with Flutter, this application offers a clean, light-weight, responsive, and feature-rich user experience on both Android and iOS mobile devices.
 
-## ✨ Fitur Utama
+## ✨ Key Features
 
-- 📚 **Daftar Surah**: Menampilkan seluruh surah Al-Qur'an lengkap dengan terjemahan dan audio.
-- 📝 **Detail Surah**: Baca ayat per ayat, terjemahan, tafsir, dan dengarkan audio tilawah.
-- 🕑 **Riwayat Terakhir**: Lanjutkan bacaan terakhir Anda.
-- 🎨 **Tema Terang & Gelap**: Pilihan tema sesuai preferensi.
-- 🌐 **Multi-Platform**: Dukungan Android, iOS, Web, Windows, macOS, dan Linux.
-- ⚙️ **Pengaturan Pengguna**: Ganti nama, dan tema aplikasi.
-- 🚀 **Onboarding**: Panduan singkat saat pertama kali menggunakan aplikasi.
-- 🏁 **Splash Screen**: Tampilan pembuka aplikasi yang menarik.
+- **Surah List**: Displays all Surahs of the Quran complete with translations.
+- **Surah Detail**: Read verse by verse, view translations and interpretations.
+- **Last Read**: Continue from your last reading position.
+- **Light & Dark Themes**: Choose themes according to your preference.
+- **Multi-Platform**: Supports Android, iOS, Web, Windows, macOS, and Linux.
+- **User Settings**: Change your name and application theme.
+- **Onboarding**: A brief guide for first-time users.
+- 🏁 **Splash Screen**: An engaging introductory display for the application.
 
-## 🗂 Daftar Menu
+## Menu List
 
-- **Splash Screen**: Tampilan awal saat aplikasi dibuka.
-- **Onboarding**: Welcome screen untuk pengguna.
-- **Home**: Berisi salam, riwayat bacaan terakhir, dan daftar surah.
-- **Detail Surah**: Menampilkan detail surah dan ayat-ayatnya.
-- **User Preferences**: Pengaturan nama, dan tema.
+- **Splash Screen**: The initial display when the application opens.
+- **Onboarding**: Welcome screen for users.
+- **Home**: Contains greetings, last read history, and a list of Surahs.
+- **Surah Detail**: Displays details of Surahs and their verses.
+- **User Preferences**: Settings for name and theme.
 
-## 🔗 API
+## API
 
-Aplikasi ini menggunakan API publik berikut:
+This application uses the following public API:
 
 - [staticquran.vercel.app/api/v1/](https://staticquran.vercel.app/api/v1/)
-  - **GET /surah**: Daftar seluruh surah (dengan dukungan query `lang` untuk bahasa)
-  - **GET /surah/{number}**: Detail surah, ayat, terjemahan, tafsir, dan audio
+  - **GET /surah**: List all Surahs (with `lang` query support for language)
+  - **GET /surah/{number}**: Surah details, verses, translations, interpretations, and audio
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Flutter** (SDK >=3.4.1 <4.0.0)
 - **State Management**: GetX
@@ -52,7 +52,7 @@ Aplikasi ini menggunakan API publik berikut:
 - **Splash & Icon**: flutter_native_splash, flutter_launcher_icons
 - **Testing & Linting**: flutter_test, flutter_lints
 
-## 🚀 Cara Menjalankan
+## How to Run
 
 ```bash
 # Clone repository
@@ -62,12 +62,12 @@ cd iqraaku
 # Install dependencies
 flutter pub get
 
-# Jalankan aplikasi
+# Run the application
 dart run
-# atau
+# or
 flutter run
 ```
 
-## 👨‍💻 Author
+## Author
 
 Rian Saputra - https://github.com/riansap
