@@ -14,7 +14,7 @@
 
 Iqraaku is a simple and modern Quran application designed to help you read, understand, and memorize the Quran with ease. Built with Flutter, this application offers a clean, light-weight, responsive, and feature-rich user experience on both Android and iOS mobile devices.
 
-## ✨ Key Features
+## Key Features
 
 - **Surah List**: Displays all Surahs of the Quran complete with translations.
 - **Surah Detail**: Read verse by verse, view translations and interpretations.
@@ -22,8 +22,8 @@ Iqraaku is a simple and modern Quran application designed to help you read, unde
 - **Light & Dark Themes**: Choose themes according to your preference.
 - **Multi-Platform**: Supports Android, iOS, Web, Windows, macOS, and Linux.
 - **User Settings**: Change your name and application theme.
-- **Onboarding**: A brief guide for first-time users.
-- 🏁 **Splash Screen**: An engaging introductory display for the application.
+- **Onboarding**: A welcome screen for first-time users.
+- **Splash Screen**: An engaging introductory display for the application.
 
 ## Menu List
 
