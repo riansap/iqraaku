@@ -71,3 +71,8 @@ flutter run
 ## Author
 
 Rian Saputra - https://github.com/riansap
+
+## Information
+
+Built for the final project of the Sanbercode Flutter Intensive Bootcamp - Batch 67.
+#BootcampDigitalSkill #Sanbercode #Flutter
